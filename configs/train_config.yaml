@@ -1,0 +1,10 @@
+data:
+  root: "F:/科研/细胞分割/DDPM/data"
+  ki67_dir: "Ki67"
+  he_dir: "HE"
+  ki67_mask_dir: "mask"
+  use_mask: true
+  H_size: 256
+  W_size: 256
+  batch: 2
+  workers: 0
